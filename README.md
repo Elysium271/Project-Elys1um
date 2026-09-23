@@ -1,4 +1,4 @@
-[Uploading 0.bmp…]
+
 [1.txt](https://github.com/user-attachments/files/32574607/1.txt)
 
 # Project-Elys1um
